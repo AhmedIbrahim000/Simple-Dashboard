@@ -1,2 +1,1 @@
-This is a simple dashboard for Office Supply Store
-![Office Supply Store Dashboard](https://github.com/user-attachments/assets/db81f7a3-e3be-4719-98fe-5a25cf3f56e8)
+![Office Supply Store Dashboard](https://github.com/user-attachments/assets/9f0667e9-5d50-45e7-b5ce-d3f9cb9479fb)
